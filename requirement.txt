@@ -1,0 +1,20 @@
+93% of storage used … If you run out, you can't create, edit, and upload files. Get 100 GB of storage for ₹130.00 ₹35.00/month for 2 months.
+langchain==0.0.221
+uvicorn==0.22.0
+fastapi==0.99.1
+unstructured==0.7.12
+sentence-transformers==2.2.2
+chromadb==0.3.26
+openai==0.27.8
+python-dotenv==1.0.0
+memory_profiler
+psutil
+tzdata>=2022.7
+vine<6.0,>=5.0.0
+prompt-toolkit>=3.0.36
+SpeechRecognition==3.10.0
+deepspeech
+pytube
+pocketsphinx
+matplotlib
+# ffmpeg is a system package and should not be in requirements.txt
